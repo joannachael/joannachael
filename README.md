@@ -1,6 +1,8 @@
 ### 👋 Hi there, my name is Michael
 
-![Beautiful picture](pic.jpg)
+<p align="center">
+  <img src="pic.jpg" alt="Beautiful profile picture"/>
+</p>
 
 ## About me
 * I'm a backend developer from **Ukraine**
