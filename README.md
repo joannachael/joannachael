@@ -5,7 +5,7 @@
 </p>
 
 ## About me
-* I'm a backend developer from **Ukraine**
+* I'm a backend developer from **Ukraine** 🇺🇦
 * My main language is **Python** 🐍
 * I'm fond of **Rust**. I believe that one day this language will become much 
   more popular thanks to its **graceful avoidance of the main problems of all software** 👏
