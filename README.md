@@ -14,5 +14,5 @@
 * **Ultimately**, I would like to conduct social and educational activities related to our science 👨‍💻
 
 ## My contacts
-* You can always connect with me via [Telegram](https://t.me/whojoannaami) 📲
+* You can always connect with me via [Telegram](https://t.me/joannachael) 📲
 * My email address - **whojoannaami@gmail.com** 📩
